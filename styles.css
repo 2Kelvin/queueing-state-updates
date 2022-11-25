@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
+.counter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30vw;
+    padding: 1em;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    background-color: tomato;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    border: 2px solid #ddd;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
