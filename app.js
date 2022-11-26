@@ -22,6 +22,7 @@ function Counter() {
           setNumber(function (n) {
             return n + 1;
           });
+          setNumber(12);
         }
       },
       "Increase The Number"

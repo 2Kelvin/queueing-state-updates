@@ -7,6 +7,7 @@ function Counter() {
         onClick={() => {
           setNumber(number + 10);
           setNumber((n) => n + 1);
+          setNumber(12);
         }}
       >
         Increase The Number
