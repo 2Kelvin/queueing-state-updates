@@ -1,5 +1,7 @@
 # queueing-state-updates
 
+![queue](https://user-images.githubusercontent.com/85868026/204197564-87b702d5-5340-4051-9130-e9f03549f4e0.png)
+
 In this read, I learnt that:
 
 - a state variable is always `fixed` coming into any render. Therefore, you cannot change its value inside the same render
